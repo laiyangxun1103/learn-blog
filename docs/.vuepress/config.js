@@ -2,6 +2,7 @@ module.exports = {
   title: 'Hello Vuepress',
   description: 'Just playing around',
   theme: 'reco',
+  base: '/learn-blog/',
   themeConfig: {
     subSidebar: 'auto',
     nav: [
